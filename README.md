@@ -16,10 +16,10 @@ Wether you're connected to the internet or not you can easily keep track of your
 [License](#license) 
 
 ## Installation
-You can use this application online using this link.  Or simply click the download button on the right side of the address bar to have a desktop/mobile app.
+You can use this application online by going [here](https://hidden-mesa-11817.herokuapp.com/).  Or simply click the download button on the right side of the address bar to have a desktop/mobile app.
 
 ## Usage
-User would input a short, descriptive name or reason for their transaction and the amount; the they would select wether it was an addition or subtraction to their budget.
+User would input a short, descriptive name or reason for their transaction and the amount; then they would select wether it was an addition or subtraction to their budget.
 
 ## Contributing
 Please email me if you have constructive input :)
